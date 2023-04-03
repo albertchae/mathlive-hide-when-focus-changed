@@ -1,0 +1,1 @@
+# mathlive-hide-when-focus-changed

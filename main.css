@@ -7,3 +7,13 @@
 #math-field {
   min-width: 500px;
 }
+
+math-field::part(virtual-keyboard-toggle) {
+  display: none;
+}
+
+button {
+  height: 100px;
+  width: 100px;
+  font-size: large;
+}

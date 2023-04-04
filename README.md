@@ -1,1 +1,1 @@
-# mathlive-hide-when-focus-changed
+https://albertchae.github.io/mathlive-hide-when-focus-changed/
